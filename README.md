@@ -1,3 +1,4 @@
+<img width="1862" height="638" alt="Screenshot 2026-10-17 104125" src="https://github.com/user-attachments/assets/75666d09-fd22-461c-9ae3-c4ff748e5fc2" />
 # HR Employee Attrition Dashboard
 
 An Excel-based HR analytics dashboard that explains why employees leave a company. Built on the IBM HR Analytics Employee Attrition dataset (Kaggle, 1,470 employees).
